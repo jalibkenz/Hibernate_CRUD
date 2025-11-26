@@ -1,0 +1,5 @@
+in/kenz/dao/StudentDao.class
+in/kenz/util/HibernateUtil.class
+in/kenz/App.class
+in/kenz/model/Student.class
+in/kenz/dao/impl/StudentDaoImpl.class
